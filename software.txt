@@ -1,3 +1,5 @@
 OpenCV 3.3 Document
 https://docs.opencv.org/3.3.0/
 
+图像处理基本算法 车牌识别与定位 
+http://blog.csdn.net/renshengrumenglibing/article/details/8596333
