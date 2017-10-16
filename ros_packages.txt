@@ -1,0 +1,6 @@
+
+cob_read_text (electric)
+http://wiki.ros.org/cob_read_text
+
+object_recognition_tod
+http://wg-perception.github.io/tod/
