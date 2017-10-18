@@ -3,3 +3,6 @@ https://docs.opencv.org/3.3.0/
 
 图像处理基本算法 车牌识别与定位 
 http://blog.csdn.net/renshengrumenglibing/article/details/8596333
+
+Training Tesseract
+https://github.com/tesseract-ocr/tesseract/wiki/Training-Tesseract
